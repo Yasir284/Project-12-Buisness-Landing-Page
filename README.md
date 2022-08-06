@@ -1,20 +1,20 @@
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML%20%26%20CSS-blue)
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-5--6hrs-red)
-[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project11-31722.netlify.app/)
+[![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project12-06822.netlify.app/)
 
-# Project-12: Hosting Landing Page
+# Project-12: Buisness Landing Page
 
 - This project is a Buisness landing page.This website is designed using pure HTML and CSS.
 
 - It took me 5-6hrs to make this project.Please find link of the project below:
 
-[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--11-purple)](https://project11-31722.netlify.app/)
+[![badge](https://img.shields.io/badge/LINK%20OF-PROJECT--12-purple)](https://project12-06822.netlify.app/)
 
 ---
 
 ## Screenshot
 
-![App Screenshot](./images/peoject-11-ss.png)
+![App Screenshot](./images/project-12ss.png)
 
 ---
 
