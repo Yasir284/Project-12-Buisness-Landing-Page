@@ -68,6 +68,12 @@ nav img:hover {
     padding: 10px 35px;
 }
 
+.Lets-talk-btn:hover {
+    background: #8bb7a2;
+    border: 1px solid #8bb7a2;
+    transition: all 200ms ease-in-out;
+}
+
 /* Hero-section-1 */
 
 .hero-section {
@@ -90,6 +96,7 @@ nav img:hover {
 }
 
 .hero-header {
+    width: 50%;
     padding-top: 3rem;
     display: flex;
     flex-direction: column;
@@ -130,7 +137,7 @@ nav img:hover {
 }
 
 .submit {
-    margin-left: 7.5rem;
+    margin-left: 8.5rem;
     padding: 15px 40px;
     border: none;
     font-family: Montserrat;
@@ -139,6 +146,8 @@ nav img:hover {
     background-color: #8bb7a2;
     color: #fff;
 }
+
+.submit:hover {}
 
 /* Hero-section-2 */
 #Hero-section-2 {
