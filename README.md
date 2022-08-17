@@ -30,7 +30,7 @@
 
 - Mobile view.
 
-![Mobile view](./images/projec12-mobilevsgif.gif)
+![Mobile view](./images/project12-mobilevsgif.gif)
 
 ---
 
