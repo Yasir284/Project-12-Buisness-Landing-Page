@@ -2,9 +2,9 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-5--6hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project12-06822.netlify.app/)
 
-# Project-12: Buisness Landing Page
+# Buisness Landing Page
 
-- This project is a Buisness landing page.This website is designed using pure HTML and CSS.
+- This project is a Buisness landing page.This website is designed using pure HTML and CSS. I also mad it mobile responsive
 
 - It took me 5-6hrs to make this project.Please find link of the project below:
 
@@ -12,15 +12,31 @@
 
 ---
 
+# Breakpoint
+
+- I have taken **Three** breakpoints to make it responsive.
+
+  - First at **1024px** for small screen laptops.
+  - Second at **820px** for tablets.
+  - Third at **480px** for mobiles.
+
+---
+
 ## Screenshot
 
+- Desktop view.
+
 ![App Screenshot](./images/project-12ss.png)
+
+- Mobile view.
+
+![Mobile view](./images/projec12-mobilevsgif.gif)
 
 ---
 
 ## 🛠 Skills learned
 
-HTML, CSS
+HTML, CSS, Learned to make site responsive.
 
 ---
 
