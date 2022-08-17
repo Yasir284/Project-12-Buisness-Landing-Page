@@ -171,6 +171,7 @@ nav img:hover {
 }
 
 .hero-section-2-heading {
+    margin-bottom: 2rem;
     text-align: center;
     font-family: Raleway;
     font-size: 2.5rem;
@@ -205,15 +206,15 @@ nav img:hover {
 
 /* Hero-section-3 */
 .hero-section-3-heading {
-    margin-top: 7%;
+    margin-top: 10%;
     text-align: center;
     font-family: Raleway;
     font-size: 2.5rem;
-    color: #333;
+    color: #000;
 }
 
 .hero-sec3-main {
-    margin: 5% 10%;
+    margin: 7% 10%;
     display: flex;
     flex-direction: column;
     gap: 9rem;
@@ -331,12 +332,14 @@ nav img:hover {
 }
 
 .hero-sec4-heading h1 {
+    width: 40%;
     font-family: Raleway;
     font-size: 2.5rem;
     line-height: 1.5;
 }
 
 .hero-sec4-heading p {
+    width: 40%;
     font-size: 1rem;
     line-height: 1.5;
     color: #333;
@@ -436,17 +439,20 @@ nav img:hover {
     margin-top: 2%;
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
 .footer-headings {
+    margin-bottom: 5px;
     font-weight: 700;
     color: #fff;
     font-size: 1.1rem;
 }
 
 .footer-headings~p {
-    font-size: 1rem;
+    margin-bottom: 5px;
+    font-size: 0.8rem;
     transition: all 200ms ease-in-out;
 }
 
@@ -532,4 +538,19 @@ nav img:hover {
         width: 30%;
         height: auto;
     }
+
+    .hero-sec4-heading {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .hero-sec4-heading h1 {
+        width: 100%;
+    }
+
+    .hero-sec4-heading p {
+        width: 100%;
+    }
+
 }
